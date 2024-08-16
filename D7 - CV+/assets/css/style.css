@@ -1,0 +1,124 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #f6f2f2e6;
+}
+
+nav{
+  min-height: 180px;
+  color: white;
+  
+}
+section{
+  margin: 5%;
+  border-radius: 2%;
+}
+
+footer{
+  margin: 5%;
+  border-radius: 2%;
+}
+
+
+.center{
+  text-align: center;
+}
+
+.circular--square {
+  border-radius: 50%;
+  border: solid 5px grey;
+} 
+
+.rotacion {
+  margin-top: 100px;
+  margin-left: 100px;
+  animation: rotar 3s infinite;
+}
+
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  .card-title{
+    font-size: 20pt;
+    color: #212529;
+    background-color: #66a8e3;
+
+  }
+  .card-text{
+    font-size: 16pt;
+    color: #707070;
+    height: 199;
+    width: 278
+  }
+  .card-body{
+    padding: 16pt;
+  }
